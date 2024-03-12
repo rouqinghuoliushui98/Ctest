@@ -11,4 +11,10 @@
     注意:连续的关系运算从左到右进行;
 四.判断语句
     1.正常情况下，else与最近的if匹配;
-    
+    2.单一出口;
+五.switch-case-break
+    case并不是隔断，每个case顺序执行，直到遇到break;
+六.循环while
+    while里面里面一定要有改变条件的语句;
+    先进循环体:do-while
+    先判断循环条件:while-do;
